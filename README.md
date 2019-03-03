@@ -18,7 +18,7 @@ So, without further ado, I've got to work. This time, everything went smooth, I'
 As a result, I got my money, new knowledge, experience. It was cool.
 
 # Skills applied
--) Still basic HTML
--) More advanced CSS than before
--) @media queries to provide responsivity
--) My ability to absorb new knowledge like a sponge(really helps me throughout my life).
+- Still basic HTML
+- More advanced CSS than before
+- @media queries to provide responsivity
+- My ability to absorb new knowledge like a sponge(really helps me throughout my life).
